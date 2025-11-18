@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a Web Developer with strong experience in HTML, CSS, JavaScript, and the MERN stack.  
+I'm a Web Developer learning & building with HTML, CSS, JavaScript, and the MERN stack.  
 I’m passionate about continuous growth, building real-world solutions, and applying modern development practices to create clean, efficient, and user-focused applications. 🚀
 
 
